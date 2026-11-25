@@ -1,0 +1,6 @@
+{
+  "name": "GuruDesk",
+  "description": "Coaching Institute Management System for batches, students, Indian Rupee (₹) fees, attendance, tests, and WhatsApp parent reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
